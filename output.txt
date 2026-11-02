@@ -1,0 +1,55 @@
+hello
+hello 
+my name 
+hello
+my name is 
+kirill puh
+hello
+my name is 
+kirill puh
+i study
+hello
+my name is 
+kirill puh
+i study
+in technion
+hello
+my name is 
+kirill puh
+i study
+in technion
+faculty 
+hello
+my name is 
+kirill puh
+i study
+in technion
+faculty 
+of parctical engeneering
+hello
+my name is 
+kirill puh
+i study
+in technion
+faculty 
+of parctical engeneering
+i have two cats
+hello
+my name is 
+kirill puh
+i study
+in technion
+faculty 
+of parctical engeneering
+i have two cats
+that i love
+hello
+my name is 
+kirill puh
+i study
+in technion
+faculty 
+of parctical engeneering
+i have two cats
+that i love
+and hate at the same time
